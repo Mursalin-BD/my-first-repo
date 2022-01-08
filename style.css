@@ -5,6 +5,13 @@ h1{
 h2{
     text-align: center;
 }
+h3{
+    font-size: 21px;
+    color: rgb(188, 20, 255);
+}
 p{
 color:darkviolet;
+}
+span{
+font-size: 17px;;
 }
